@@ -1,6 +1,6 @@
 # my-autohotkey
 
-1. Install AutoHotKey from [here](https://www.autohotkey.com/)
+1. Install AutoHotKey **v1.1** from [here](https://www.autohotkey.com/)
 2. Clone this repo
 3. Create a shortcut for main.ahk
 4. Open the startup folder by typing "shell:startup" in the Run dialog (Windows+R)
